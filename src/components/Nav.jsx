@@ -16,7 +16,7 @@ const Nav = () => {
 
   return (
     <div>
-      <div className="bg-[#FAFFF8] py-4 shadow-sm fixed left-0 right-0 z-50 w-full h-[100px] flex items-center justify-between p-4 md:p-8">
+      <div className="bg-[#FAFFF8] py-4 shadow-sm fixed left-0 right-0 z-50 w-full h-[120px] flex items-center justify-between p-4 md:p-8">
         <h1>
           <a
             className="text-[#C3990F] text-4xl flex items-center font-mono tracking-wider"

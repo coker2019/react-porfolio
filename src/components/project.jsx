@@ -14,7 +14,7 @@ const Project = () => {
             <img
               src={images.landingpage}
               alt="landingpageImg"
-              className="w-full h-full object-cover object-center transition duration-200 group-hover:scale-105"
+              className="w-[28rem] h-[20rem] object-cover object-center transition duration-200 group-hover:scale-105"
             />
           </a>
 

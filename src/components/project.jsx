@@ -10,10 +10,10 @@ const Project = () => {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 md:gap-8 items-center">
-          <a href="https://hotel-booking-3wof.onrender.com/login" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80">
+          <a href="https://nownow-dispatch.netlify.app/" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80">
             <img
-              src={images.hotelapp}
-              alt="hotelImg"
+              src={images.landingpage}
+              alt="landingpageImg"
               className="w-full h-full object-cover object-center transition duration-200 group-hover:scale-105"
             />
           </a>

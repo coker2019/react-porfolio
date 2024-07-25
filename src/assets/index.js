@@ -8,6 +8,7 @@ import hotelapp from "./hotel-png-9.png";
 import metrics from "./metrics.png";
 import ticket from "./ticket.png";
 import virtual from "./virtual-lip.png";
+import landingpage from "./landingpage.png";
 
 export const images = {
     closebtn,
@@ -20,5 +21,6 @@ export const images = {
     metrics,
     ticket,
     virtual,
+    landingpage,
     
 }

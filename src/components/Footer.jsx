@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-800 text-white py-6">
       <div className="max-w-[1200px] mx-auto md:flex justify-between p-5 items-center">
-        <p>&copy; 2024 Maurice Coker. All rights reserved.</p>
+        <p>&copy; 2025 Maurice Coker. All rights reserved.</p>
         <div className="flex space-x-4">
           <a
             href="https://www.linkedin.com/in/mauricecoker/"

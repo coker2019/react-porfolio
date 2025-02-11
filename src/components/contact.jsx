@@ -56,7 +56,7 @@ const Contact = () => {
               name="message"
               id="message"
               placeholder="Your Message"
-              className="w-100 mt-2 px-3 py-3 rounded-lg bg-gray-800 border border-gray-700"
+              className="w-100 mt-2 px-3 py-3 rounded-lg bg-gray-800 border border-gray-700 text-white"
             />
           </div>
 

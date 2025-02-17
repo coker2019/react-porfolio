@@ -15,7 +15,7 @@ const hero = () => {
         </h2>
 
         <p className="text-1xl mt-10 text-primaryBlack">
-          I've completed 25+ diverse projects, showcasing my skills in product
+          I've completed 30+ diverse projects, showcasing my skills in product
           development, feature implementation, and website creation. Explore my
           portfolio, and if you have a coding project, reach out—I'm ready to
           bring your ideas to life!

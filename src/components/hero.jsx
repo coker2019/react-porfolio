@@ -36,12 +36,7 @@ const Hero = () => {
          My ability to collaborate across multiple time zones (UTC-6, UTC+1, UTC+5)
          reflects my adaptability, strong communication skills, and proactive work ethic.
         </p>
-        <button
-          className="bg-white text-indigo-600 px-10 py-2 my- border
-         border-primaryMustard rounded-full hover:bg-indigo-800 hover:text-white "
-        >
-          show more...
-        </button>
+      
 
         <div className="mt-5 cursor-pointer space-x-3 flex">
             <a href="https://web.facebook.com/maurice.coker.180"> <img src={images.facebook} alt="hero" /></a>

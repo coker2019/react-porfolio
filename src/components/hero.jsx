@@ -15,10 +15,8 @@ const Hero = () => {
         </h2>
 
         <p className="text-1xl mt-10 text-primaryBlack">
-          I've completed 30+ diverse projects, showcasing my skills in product
-          development, feature implementation, and website creation. Explore my
-          portfolio, and if you have a coding project, reach out to me I'm ready to
-          bring your ideas to life!
+        I have delivered more than 30 projects, showcasing expertise in product development, feature implementation, and complete website creation.
+         Please review my portfolio and contact me to discuss how I can help bring your coding project to life
         </p>
       </div>
 
@@ -34,10 +32,9 @@ const Hero = () => {
       <div className="w-fit md:w-1/3">
         <p className="mb-4 text-4xl">About me</p>
         <p className="text-1xl mb-5 text-primaryBlack">
-          I excel in remote development, with a track record of diverse projects
-          and 95% marks in school and college. I've successfully collaborated
-          across three time zones (UTC-6, UTC+1, UTC+5), demonstrating
-          adaptability and a proactive work ethic.
+        I excel in remote development and have a proven track record of delivering diverse projects.
+         My ability to collaborate across multiple time zones (UTC-6, UTC+1, UTC+5)
+         reflects my adaptability, strong communication skills, and proactive work ethic.
         </p>
         <button
           className="bg-white text-indigo-600 px-10 py-2 my- border

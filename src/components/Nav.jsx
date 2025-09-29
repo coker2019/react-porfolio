@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { CgNametag } from "react-icons/cg";
 import { images } from "../assets";
 import HamburgerIcon from "../assets/hamburgerIcon";

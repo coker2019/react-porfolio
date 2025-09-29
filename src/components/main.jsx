@@ -1,4 +1,4 @@
-import React from "react";
+
 import Nav from "./Nav"; 
 import Hero from "./hero"; 
 import Project from "./project";

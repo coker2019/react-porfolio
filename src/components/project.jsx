@@ -1,4 +1,4 @@
-import React from "react";
+
 import { images } from "../assets";
 
 const Project = () => {
@@ -10,7 +10,7 @@ const Project = () => {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6 md:gap-8 items-center">
-          <a href="https://nownow-dispatch.netlify.app/" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80">
+          <a href="https://admin.nownowdispatch.com/" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80">
             <img
               src={images.landingpage}
               alt="landingpageImg"

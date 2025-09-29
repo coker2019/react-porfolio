@@ -1,8 +1,8 @@
-import React from "react";
+
 import { images } from "../assets";
 import "../index.css";
 
-const hero = () => {
+const Hero = () => {
   return (
     <section   id="skills" className=" md:flex pt-[150px]  justify-around items-center p-10  space-y-10 md:space-x-10 text-primaryMustard">
       <div className="w-fit md:w-1/3">
@@ -17,7 +17,7 @@ const hero = () => {
         <p className="text-1xl mt-10 text-primaryBlack">
           I've completed 30+ diverse projects, showcasing my skills in product
           development, feature implementation, and website creation. Explore my
-          portfolio, and if you have a coding project, reach out—I'm ready to
+          portfolio, and if you have a coding project, reach out to me I'm ready to
           bring your ideas to life!
         </p>
       </div>
@@ -57,4 +57,4 @@ const hero = () => {
   );
 };
 
-export default hero;
+export default Hero;

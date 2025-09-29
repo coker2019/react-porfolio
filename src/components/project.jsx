@@ -18,10 +18,10 @@ const Project = () => {
             />
           </a>
 
-          <a href="https://coker2019.github.io/Coker-Capstone/" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80 md:col-span-2 lg:col-span-1">
+          <a href="https://admin-dev.idataroom.com/login" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80 md:col-span-2 lg:col-span-1">
             <img
-              src={images.ticket}
-              alt="ticketImg"
+              src={images.adminPix}
+              alt="adminPix"
               className="w-full h-full object-cover object-center transition duration-200 group-hover:scale-105"
             />
           </a>

@@ -9,6 +9,7 @@ import metrics from "./metrics.png";
 import ticket from "./ticket.png";
 import virtual from "./virtual-lip.png";
 import landingpage from "./landingpage.png";
+import adminPix from "./admin.png"
 
 export const images = {
     closebtn,
@@ -22,5 +23,6 @@ export const images = {
     ticket,
     virtual,
     landingpage,
+    adminPix,
     
 }

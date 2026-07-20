@@ -26,9 +26,9 @@ const Project = () => {
             />
           </a>
 
-          <a href="https://virtual-library-88xi.onrender.com/login" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80 md:col-span-2 lg:col-span-1">
+          <a href="https://olabisimovie.netlify.app/" className="group h-48 overflow-hidden rounded-lg shadow-lg sm:h-60 md:h-80 md:col-span-2 lg:col-span-1">
             <img
-              src={images.virtual}
+              src={images.moviepix}
               alt="virtualImg"
               className="w-full h-full object-cover object-center transition duration-200 group-hover:scale-105"
             />

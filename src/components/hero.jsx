@@ -22,7 +22,7 @@ const Hero = () => {
 
       <div className="w-fit md:w-1/3 items-center">
         <img
-          src={images.profilepix}
+          src={images.newpix}
           className="rounded-full w-full border-8 border-primaryAsh"
           alt="hero"
           width={250}

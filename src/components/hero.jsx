@@ -15,8 +15,8 @@ const Hero = () => {
         </h2>
 
         <p className="text-1xl mt-10 text-primaryBlack">
-        I have delivered more than 30 projects, showcasing expertise in product development, feature implementation, and complete website creation.
-         Please review my portfolio and contact me to discuss how I can help bring your coding project to life
+        Delivered 30+ web development projects, from feature implementation to complete web applications. Explore my portfolio,
+         and let's discuss how I can help bring your next project to life.
         </p>
       </div>
 
@@ -32,9 +32,8 @@ const Hero = () => {
       <div className="w-fit md:w-1/3">
         <p className="mb-4 text-4xl">About me</p>
         <p className="text-1xl mb-5 text-primaryBlack">
-        I excel in remote development and have a proven track record of delivering diverse projects.
-         My ability to collaborate across multiple time zones (UTC-6, UTC+1, UTC+5)
-         reflects my adaptability, strong communication skills, and proactive work ethic.
+        I'm a Full-Stack Web Developer building scalable web applications for clients worldwide. I thrive in remote teams,
+         combining technical expertise, problem-solving, and clear communication to deliver quality results
         </p>
       
 
